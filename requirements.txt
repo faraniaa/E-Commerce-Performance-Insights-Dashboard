@@ -73,6 +73,7 @@ glob2==0.7
 greenlet @ file:///C:/ci/greenlet_1600885448389/work
 h5py==2.10.0
 HeapDict==1.0.1
+helpdev==0.7.1
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
@@ -158,6 +159,7 @@ prometheus-client==0.8.0
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
 protobuf==4.25.0
 psutil @ file:///C:/ci/psutil_1598370330503/work
+ptyprocess==0.7.0
 py @ file:///tmp/build/80754af9/py_1593446248552/work
 pyarrow==14.0.0
 pycodestyle==2.6.0
@@ -173,6 +175,9 @@ PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
 pyodbc===4.0.0-unsupported
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
 pyparsing==2.4.7
+PyQt5==5.12.3
+PyQt5-sip==12.13.0
+PyQtWebEngine==5.12.1
 pyreadline==2.1
 pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
 PySocks==1.7.1
